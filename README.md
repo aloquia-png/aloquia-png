@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## About Me 👋
+- SWE Student @ the University of Auckland
+- Design Executive @ DEVS | Marketing Executive @ GDGC
+- Developer with frontend-focused fullstack development experience looking to improve at backend development 
 <!--
 **aloquia-png/aloquia-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
